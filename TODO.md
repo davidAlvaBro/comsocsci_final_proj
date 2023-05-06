@@ -42,3 +42,50 @@
 
 ## Conclusion 
 - Shelves better decides genre in communities 
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+# TODO tomorrow 
+- Look at conclusions together. 
+    - Confusion matrices 
+    - Assortativity 
+    - Views of network 
+    - Word Clouds 
+
+- Use one genre at a time to see if the confusion matrices look better? 
+- Use assortativity with all genres of each book together - How? do we need to write our own assortativity function? 
+
+- Should we really have the degree assortativity included? 
+    - If yes choose which one we put in the code 
+
+- Why are the communities pickle files? 
+
+- two todoes in mixing matrix 
+    - Seb write some comments 
+
+
+
+
+
+
+# BODY
+Look at section Create Graph under Shelf Graph - Body messing around with comments. 
+
+- Calculate assortativity
+    - Genre
+    - Degrees
+- Get largest sub network
+- Create communities
+    - Color according to genre
